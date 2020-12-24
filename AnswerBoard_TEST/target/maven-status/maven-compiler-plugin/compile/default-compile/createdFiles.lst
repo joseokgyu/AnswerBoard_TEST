@@ -1,0 +1,7 @@
+com\min\edu\usebean\Reply.class
+com\min\edu\model\IBoardDao.class
+com\min\edu\ctrl\BoardController.class
+com\min\edu\model\BoardDaoImpl.class
+com\min\edu\dto\AnswerBoardDto.class
+com\min\edu\model\BoardServiceImpl.class
+com\min\edu\model\IBoardService.class
