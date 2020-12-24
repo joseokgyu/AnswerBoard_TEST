@@ -9,5 +9,6 @@
 <body>
 <a href="./BoardList.do">게시판으로 이동</a>
 <h1>추가</h1>
+<h2>추가</h2>
 </body>
 </html>
